@@ -1,0 +1,9 @@
+CategoryID,ExpenseCategory,TypicalLimit
+C01,Travel,25000
+C02,Meals,8000
+C03,Accommodation,20000
+C04,Office Supplies,10000
+C05,Software & Subscriptions,15000
+C06,Training,20000
+C07,Client Entertainment,12000
+C08,Communication,7000
